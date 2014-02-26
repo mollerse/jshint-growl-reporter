@@ -1,6 +1,6 @@
 {
   "name": "jshint-growl-reporter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Growl reporter for JSHint",
   "keywords": [
     "jshint",
