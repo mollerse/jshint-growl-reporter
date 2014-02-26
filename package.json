@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "description": "Growl reporter for JSHint",
   "keywords": [
-    "JSHint",
-    "Growl",
-    "Reporter"
+    "jshint",
+    "growl",
+    "reporter"
   ],
   "author": {
     "name": "Stian Veum Møllersen",
