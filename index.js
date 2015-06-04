@@ -1,5 +1,5 @@
 var growl = require('growl');
-var reduce = require('lodash.reduce');
+var reduce = require('lodash/collection/reduce');
 
 module.exports = {
   reporter: function (errs) {
